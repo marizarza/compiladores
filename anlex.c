@@ -210,7 +210,7 @@ void lexema()
 				}
                 else if(car==EOF || car==',' || car=='\n' || car==':')
 				{
-                    sprintf(msg,"Se esperaba que finalice el literal");
+                    sprintf(msg,"Se esperaba que finalice el literal cadena");
 					error(msg);
 					fputs("Error lexico",salida);
                     

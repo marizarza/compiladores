@@ -3,7 +3,7 @@
       {  
          "ci":1234567,
          "nombre":"Julio Pérez",
-         "casado":FALSE,
+         "casado":false,
          "hijos":[  
 
          ]
@@ -11,7 +11,7 @@
       {  
          "ci":7654321,
          "nombre":"Juan Gómez",
-         "casado":TRUE,
+         "casado":false,
          "hijos":[  
             {  
                "nombre":"Jorge",
