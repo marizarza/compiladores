@@ -1,6 +1,6 @@
 Compiladores FPUNA
 
-Autor: Andrea Zarza
+Autor: Andrea Marisol Zarza
 
 Para compilar: gcc anlex.c -o anlex
 
