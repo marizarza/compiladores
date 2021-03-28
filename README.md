@@ -1,6 +1,3 @@
-compiladores
-============
-
 Compiladores FPUNA
 
 Autor: Andrea Zarza
